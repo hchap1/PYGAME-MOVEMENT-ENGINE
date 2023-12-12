@@ -1,0 +1,10 @@
+0 air
+1 dirt
+2 spike_floor
+3 spike_left_wall
+4 spike_ceiling
+5 spike_right_wall
+6 previous_level
+7 next_level
+8 blue_bricks
+9 dash_pad
