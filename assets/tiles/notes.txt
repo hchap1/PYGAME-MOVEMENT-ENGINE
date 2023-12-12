@@ -1,0 +1,2 @@
+.ase files can be edited with ASE or LibreSprite. LibreSprite is free.
+AIR, 6, 7 DO NOT HAVE ASSETS.
